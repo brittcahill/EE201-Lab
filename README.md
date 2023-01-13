@@ -1,3 +1,3 @@
-# Lab 2
+# Lab
 
-This is Lab 2 for EE 201
+This is Labs repo for EE 201
