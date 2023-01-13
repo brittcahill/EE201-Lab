@@ -1,7 +1,7 @@
 # About Me
 
 ### *name:* Brittany Cahill
-![me](brittany.jpeg)
+<img src="brittany.jpeg" alt="me" width="200"/>
 
 ## *schooling*
 **ECE**
