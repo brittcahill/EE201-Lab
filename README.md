@@ -8,9 +8,11 @@ This is Lab 2 for EE 201
 
 ## *schooling*
 ECE
-  Junior
-    Computer architecture
+  >Junior
+    >>Computer architecture
+
+____
 
 English
-  Minor
-    Creative Writing
+  >Minor
+    >>Creative Writing
